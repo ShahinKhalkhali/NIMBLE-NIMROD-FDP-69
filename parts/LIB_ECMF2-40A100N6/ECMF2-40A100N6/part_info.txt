@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=ECMF2-40A100N6
+PartCategory=Filter
+PackageCategory=Other
+PinCount=6
+Version=2.2
+Released=2022-08-16 08:26:57
+Downloaded=2025-08-04 02:10:25
+3D=Y

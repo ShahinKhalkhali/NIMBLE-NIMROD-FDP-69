@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ECMF2-40A100N6
+#/16464959/1732825/2.50/6/2/Filter
+DEF ECMF2-40A100N6 FL 0 30 Y Y 1 F N
+F0 "FL" 1750 300 50 H V L CNN
+F1 "ECMF2-40A100N6" 1750 200 50 H V L CNN
+F2 "ECMF240A100N6" 1750 100 50 H I L CNN
+F3 "https://www.st.com/resource/en/datasheet/ecmf2-40a100n6.pdf" 1750 0 50 H I L CNN
+F4 "2 lines Common mode filter with ESD protection for High Speed Serial interface" 1750 -100 50 H I L CNN "Description"
+F5 "0.55" 1750 -200 50 H I L CNN "Height"
+F6 "STMicroelectronics" 1750 -300 50 H I L CNN "Manufacturer_Name"
+F7 "ECMF2-40A100N6" 1750 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "511-ECMF2-40A100N6" 1750 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ECMF2-40A100N6?qs=Znm5pLBrcAJS%2FJmQqRCfmw%3D%3D" 1750 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "ECMF2-40A100N6" 1750 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ecmf2-40a100n6/stmicroelectronics?utm_currency=USD&region=europe" 1750 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X D+_TO_CONNECTOR 1 0 0 200 R 50 50 0 0 P
+X D-_TO_CONNECTOR 2 0 -100 200 R 50 50 0 0 P
+X GND_1 3 0 -200 200 R 50 50 0 0 P
+X GND_2 4 1900 -200 200 L 50 50 0 0 P
+X D-_TO_IC 5 1900 -100 200 L 50 50 0 0 P
+X D+_TO_IC 6 1900 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1700 100 1700 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
