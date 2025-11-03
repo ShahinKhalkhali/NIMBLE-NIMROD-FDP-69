@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=TCPP02-M18
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=19
+Version=2.1
+Released=2022-12-29 04:30:53
+Downloaded=2025-08-04 22:13:50
+3D=Y
