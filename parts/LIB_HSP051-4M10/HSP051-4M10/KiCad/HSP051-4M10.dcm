@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HSP051-4M10
+D STMICROELECTRONICS - HSP051-4M10 - DIODE, ESD PROTECTION, 3.6V, QFN-10
+K
+F http://www.mouser.com/ds/2/389/hsp051-4m10-954802.pdf
+$ENDCMP
+#
+#End Doc Library
