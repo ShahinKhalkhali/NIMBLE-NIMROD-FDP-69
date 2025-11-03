@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=ESDA25P35-1U1M
+PartCategory=TVS Diode (Uni-directional)
+PackageCategory=Other
+PinCount=2
+Version=2.7
+Released=2019-04-09 09:26:43
+Downloaded=2025-08-04 22:27:44
+3D=Y
