@@ -1,0 +1,341 @@
+(footprint "ECMF240A100N6"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "1.35mm x 1.4mm x 0.5mm")
+	(tags "Filter")
+	(property "Reference" "FL**"
+		(at 0.01 3.1 0)
+		(layer "F.SilkS")
+		(uuid "938876df-a4b1-4979-9a7d-d30044253c85")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "ECMF240A100N6"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "66b184d7-123f-4130-acea-a884cddb93fb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7c6f2351-d92b-4b5b-bddc-d1a83e57bade")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6d2abcbd-c3a3-487a-a4c8-ce7be214ec8e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Digikey Link" "https://www.digikey.ca/en/products/detail/stmicroelectronics/ECMF2-40A100N6/16379609?s=N4IgTCBcDaIKIGECyAxMBaALABgIIEZtsA5ANhAF0BfIA"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "276db2d2-f7a4-4adc-bcaf-96196b7c0f88")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Detailed Description" "2 Line Common Mode Choke Surface Mount 100mA DCR 3Ohm (Typ)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2942456f-5066-429d-81d5-b27fc74c7d60")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer Part#" "ECMF2-40A100N6"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa9e7536-2994-4f24-b1eb-caeb0c1e5541")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Digikey Part#" "497-ECMF2-40A100N6CT-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "feea442a-b16e-4e47-b3f2-ecca29dec8a1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer Part#" "ECMF2-40A100N6"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9fe1201-b736-4aab-9490-0a610a91859e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Detailed Description" "2 Line Common Mode Choke Surface Mount 100mA DCR 3Ohm (Typ)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a4f7907b-2f92-42b8-82fa-8021bb11337e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Digikey Link" "https://www.digikey.ca/en/products/detail/stmicroelectronics/ECMF2-40A100N6/16379609?s=N4IgTCBcDaIKIGECyAxMBaALABgIIEZtsA5ANhAF0BfIA"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8d751e80-e44a-4c92-97ea-975bd5de404f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Digikey Part#" "497-ECMF2-40A100N6CT-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b60221b9-26fb-44e5-ab88-9bd532a86953")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.4 1.3)
+		(end -0.4 1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fa642147-20bc-4fc4-9ae0-c32a6618ac48")
+	)
+	(fp_line
+		(start -0.4 1.4)
+		(end -0.4 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3fe0e577-2145-4d2c-9559-b296d72a628d")
+	)
+	(fp_arc
+		(start -0.4 1.3)
+		(mid -0.35 1.35)
+		(end -0.4 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "63d91c76-2465-4c2a-b7b9-90a221caf531")
+	)
+	(fp_arc
+		(start -0.4 1.4)
+		(mid -0.45 1.35)
+		(end -0.4 1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b13b07e2-272e-48ab-b4de-ed359b3d2f5a")
+	)
+	(fp_line
+		(start -0.8 -1)
+		(end 0.8 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "82eea8d9-97be-4798-9dd4-1da24205e762")
+	)
+	(fp_line
+		(start -0.8 1)
+		(end -0.8 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "67428cc1-8cfa-489a-b2a2-ecf9b776cb40")
+	)
+	(fp_line
+		(start 0.8 -1)
+		(end 0.8 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5a379982-c477-4040-968b-df37ad7b1c4f")
+	)
+	(fp_line
+		(start 0.8 1)
+		(end -0.8 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9ea3078e-ef3b-47b7-b941-7795f5663a83")
+	)
+	(fp_line
+		(start -0.7 -0.675)
+		(end 0.7 -0.675)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "abc0a04f-58b5-4e35-80b9-6b451d32d14c")
+	)
+	(fp_line
+		(start -0.7 0.675)
+		(end -0.7 -0.675)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "010860e8-9f87-4c95-83c1-4d9072f1cedf")
+	)
+	(fp_line
+		(start 0.7 -0.675)
+		(end 0.7 0.675)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "28c4b6d9-fde1-48a3-8dd4-5ce90c9c0405")
+	)
+	(fp_line
+		(start 0.7 0.675)
+		(end -0.7 0.675)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3d9689c4-03c1-4e5a-8046-5686ebf6a523")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -3.04 0)
+		(layer "F.Fab")
+		(uuid "cd313e22-01ad-4e57-b68c-c35b6a3e5db5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.4 0.525)
+		(size 0.2 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "da1bde42-c826-4fe0-8a1b-f9036425b09c")
+	)
+	(pad "2" smd rect
+		(at 0 0.525)
+		(size 0.2 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "35a49a24-767a-4cad-a608-be627817d431")
+	)
+	(pad "3" smd rect
+		(at 0.4 0.525)
+		(size 0.2 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "098036b4-8cdf-4aa3-b1e1-a2aa3ca6ab03")
+	)
+	(pad "4" smd rect
+		(at 0.4 -0.525)
+		(size 0.2 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "42c33143-52ae-405e-90b8-88000db3d1b6")
+	)
+	(pad "5" smd rect
+		(at 0 -0.525)
+		(size 0.2 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a9529c10-f01c-4ce9-b19e-1e42e36edd64")
+	)
+	(pad "6" smd rect
+		(at -0.4 -0.525)
+		(size 0.2 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "18de7a2d-7673-4fc4-ab75-ebfd9b81e540")
+	)
+	(embedded_fonts no)
+	(model "ECMF2-40A100N6.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
